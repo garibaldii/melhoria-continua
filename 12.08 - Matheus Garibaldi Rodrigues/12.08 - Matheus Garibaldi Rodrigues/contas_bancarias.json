@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "documento_cliente": "111.111.111-33",
+    "codigo_banco": 301,
+    "agencia": 3,
+    "numero_conta": "30201304",
+    "tipo_conta": "CORRENTE",
+    "ativo": 1
+}
